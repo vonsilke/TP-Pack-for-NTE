@@ -1,98 +1,97 @@
-﻿Illegal Activity 1, 52119.5, -2042.49, 7709.63
-Illegal Activity 2, 53550, 24257.6, 6601.01
-Illegal Activity 3, 17852.7, 22931.7, 7716.52
-Illegal Activity 4, 11301, 29718, 7731.48
-Illegal Activity 5, 6217.56, 41493.7, 7748.87
-Illegal Activity 6, -1226.87, 15856.4, 8785.71
-Illegal Activity 7, -46.0085, 23417.4, 7769.52
-Illegal Activity 8, -9513.99, 23562, 7773.15
-Illegal Activity 9, -14638.2, 29130.2, 7780.38
-Illegal Activity 10, -40965.2, -3401.65, 7889.98
-Illegal Activity 11, -94370.1, -17112.9, 15622.8
-Illegal Activity 12, -60871.6, 17482.5, 7791.61
-Illegal Activity 13, -61350.3, 24500.4, 7771.99
-Illegal Activity 14, -38192.3, 18624.1, 7810.95
-Illegal Activity 15, -37467.7, 23581.6, 7801.15
-Illegal Activity 16, -44386.6, 29314.4, 7801.95
-Illegal Activity 17, -58314.5, 40045.2, 7780.12
-Illegal Activity 18, -46236.5, 50140.1, 7800.8
-Illegal Activity 19, -30508.2, 57843.4, 6823.5
-Illegal Activity 20, -29748.2, 72091.2, 6624.31
-Illegal Activity 21, -5578.67, 63806.3, 6597.01
-Illegal Activity 22, 21714.4, 58303.7, 6378.39
-Illegal Activity 23, 14511.5, 79298.7, 6366.24
-Illegal Activity 24, 44413.2, 82463.4, 6170.14
-Illegal Activity 25, -12831.3, 87566.9, 6395.44
-Illegal Activity 26, -790.246, 97950, 6378.02
-Illegal Activity 27, 8707.28, 108588, 5810.36
-Illegal Activity 28, 29353.7, 108560, 7361.49
-Illegal Activity 29, 42201.8, 100895, 9982.23
-Illegal Activity 30, 54140.4, 110648, 12443.4
-Illegal Activity 31, 65400.6, 120547, 4967.62
-Illegal Activity 32, 37085.9, 128510, 7060.68
-Illegal Activity 33, 26140, 143690, 3235.15
-Illegal Activity 34, 9061.69, 169644, 4340.96
-Illegal Activity 35, 6558.82, 144741, 3549.75
-Illegal Activity 36, -43111.2, 161993, 2349.2
-Illegal Activity 37, -26355.7, 148004, 4047.55
-Illegal Activity 38, -8970.72, 126530, 6400.22
-Illegal Activity 39, -37913.9, 135579, 2920.47
-Illegal Activity 40, -23200.3, 117355, 6403.19
-Illegal Activity 41, -43707.9, 111478, 4848.45
-Illegal Activity 42, -46556.5, 95405.8, 2952.44
-Illegal Activity 43, -58241.5, 80548.5, 3149.25
-Illegal Activity 44, -72976.3, 62500.6, 6417.53
-Illegal Activity 45, -82517.6, 32976.8, 7792.25
-Illegal Activity 46, -108876, 36218.9, 8840.35
-Illegal Activity 47, -109305, 63268.6, 7465.14
-Illegal Activity 48, -91035.5, 71498.2, 6213.56
-Illegal Activity 49, -111564, 77433.1, 7204.17
-Illegal Activity 50, -121409, 67050.8, 7503.56
-Illegal Activity 51, -131743, 68148.8, 7495.39
-Illegal Activity 52, -136910, 81082.9, 8326.15
-Illegal Activity 53, -124790, 83882.2, 7139.14
-Illegal Activity 54, -129622, 93429, 7974.12
-Illegal Activity 55, -108218, 104904, 6584.37
-Illegal Activity 56, -92863, 94207.3, 6215.75
-Illegal Activity 57, -84564.5, 101911, 4305.52
-Illegal Activity 58, -86121.6, 113905, 4312.8
-Illegal Activity 59, -79488, 121880, 2608.95
-Illegal Activity 60, -77190.5, 145175, 3825.18
-Illegal Activity 61, -102613, 148516, 7424.99
-Illegal Activity 62, -96261.9, 174244, 4928.3
-Illegal Activity 63, -90888.6, 182717, 3087.58
-Illegal Activity 64, -100845, 184587, 3170.91
-Illegal Activity 65, -115032, 151773, 5885.72
-Illegal Activity 66, -126083, 156240, 6683.6
-Illegal Activity 67, -120625, 169994, 6687.94
-Illegal Activity 68, -125153, 148381, 6795.87
-Illegal Activity 69, -133193, 141226, 6786.02
-Illegal Activity 70, -142244, 122839, 7180.63
-Illegal Activity 71, -145272, 115149, 7194.17
-Illegal Activity 72, -158233, 103997, 7191.65
-Illegal Activity 73, -169017, 104663, 7188.33
-Illegal Activity 74, -172312, 93083.8, 7645.26
-Illegal Activity 75, -200066, 112137, 7345.8
-Illegal Activity 76, -185475, 118183, 7187.59
-Illegal Activity 77, -167469, 121342, 7194.54
-Illegal Activity 78, -191938, 131750, 7071.55
-Illegal Activity 79, -162617, 140661, 6800.98
-Illegal Activity 80, -158988, 129436, 6789.98
-Illegal Activity 81, -191179, 146951, 5566.16
-Illegal Activity 82, -158819, 152745, 6393.86
-Illegal Activity 83, -170469, 164609, 5974.23
-Illegal Activity 84, -152191, 161039, 7464.77
-Illegal Activity 85, -140466, 162718, 6298.57
-Illegal Activity 86, -137477, 165814, 6909.31
-Illegal Activity 87, -149487, 170515, 8118.28
-Illegal Activity 88, -144151, 175016, 7528.52
-Illegal Activity 89, -142060, 183184, 6994.22
-Illegal Activity 90, -132475, 180672, 6757.27
-Illegal Activity 91, -121781, 183964, 6667.12
-Illegal Activity 92, -175210, 202074, 10956.1
-Illegal Activity 93, -152392, 215483, 9906.33
-Illegal Activity 94, -154977, 219383, 10601.9
-Illegal Activity 95, -178086, 226021, 7738.3
-Illegal Activity 96, -195971, 208474, 15748.7
-Illegal Activity 97, -207212, 223859, 5246.56
-Illegal Activity 98, -147628, 240905, 2551.06
+Illegal Activity, -149340.17, 170695.75, 8360.325
+Illegal Activity, -138423.2, 164717.1, 6685.9214
+Illegal Activity, -101549.984, 184320.27, 3723.329
+Illegal Activity, -125660.59, 156639.56, 7094.1753
+Illegal Activity, -91629.875, 182846.95, 3498.0059
+Illegal Activity, -124356.414, 147887.48, 6959.438
+Illegal Activity, -132435.61, 181353.86, 7001.568
+Illegal Activity, -121553.27, 183605.81, 6609.461
+Illegal Activity, -145851.12, 172711.5, 8331.706
+Illegal Activity, -141979.27, 163252.17, 7027.8403
+Illegal Activity, -96009.47, 174738.16, 5034.263
+Illegal Activity, -84745.914, 123142.77, 4962.702
+Illegal Activity, -142297.6, 183677.56, 6993.403
+Illegal Activity, -152132.52, 162047.2, 7565.6724
+Illegal Activity, -87937.43, 100745.63, 4237.541
+Illegal Activity, -77100.58, 146466.08, 3835.331
+Illegal Activity, -116085.75, 151381.34, 7383.1895
+Illegal Activity, -121217.02, 170210, 7014.1904
+Illegal Activity, -155508.52, 219410.64, 11228.385
+Illegal Activity, -147626.25, 240641.33, 2921.863
+Illegal Activity, -152231.72, 215630.06, 10270.379
+Illegal Activity, -196469.58, 208843.88, 16073.885
+Illegal Activity, -179643.98, 224641.86, 7838.4697
+Illegal Activity, -175803.98, 202486.16, 11114.74
+Illegal Activity, -207492.06, 223865.47, 5405.864
+Illegal Activity, -137339, 80901, 8282
+Illegal Activity, -142772.6, 121915.914, 7136.4766
+Illegal Activity, -166991, 103092, 6710
+Illegal Activity, -113247, 104338, 6507
+Illegal Activity, -129580, 93319, 7929.973
+Illegal Activity, -192695, 131026, 7174
+Illegal Activity, -167182, 120375, 7110
+Illegal Activity, -124691, 84252, 7096.7563
+Illegal Activity, -91523.55, 112368.59, 4342.3916
+Illegal Activity, -98068, 96203.14, 6808.536
+Illegal Activity, -131578, 140519, 6741.8726
+Illegal Activity, -159541, 128986, 6737.8257
+Illegal Activity, -111800, 75552, 7135
+Illegal Activity, -131567.33, 67891.11, 7446.05
+Illegal Activity, -173185, 91495, 7665
+Illegal Activity, -144918, 114603, 7094
+Illegal Activity, -168605.03, 164169.08, 5874
+Illegal Activity, -158338.03, 101843.5, 7200.7295
+Illegal Activity, -122551.734, 65937.81, 7512.075
+Illegal Activity, -163197.1, 139730.66, 6802.6875
+Illegal Activity, -109262, 63553, 7403
+Illegal Activity, -159009, 152170, 6318
+Illegal Activity, -186742, 116305, 7146.5737
+Illegal Activity, -191488, 147352, 5619
+Illegal Activity, -90798, 70427, 6169.4077
+Illegal Activity, -200120, 112224, 7262
+Illegal Activity, -9573.091, 23424.45, 8114.457
+Illegal Activity, -2228.5898, 21716.44, 7967.8286
+Illegal Activity, -58295.344, 39555.676, 7975.8433
+Illegal Activity, 53513.9, 24332.107, 6902.7734
+Illegal Activity, -52774.516, 51491.938, 8201.783
+Illegal Activity, 5806.032, 40110.45, 7872.706
+Illegal Activity, -41021.266, -3322.2537, 7670.6816
+Illegal Activity, -1226.4164, 15316.891, 8922.567
+Illegal Activity, 11115.586, 29385.482, 7611.717
+Illegal Activity, -61164.086, 24496.516, 7704.711
+Illegal Activity, -93931.33, -16614.023, 15554.644
+Illegal Activity, -82537.97, 33175.484, 7715.786
+Illegal Activity, -14838.568, 29254.941, 7695.761
+Illegal Activity, -60625.047, 17767.832, 7715.786
+Illegal Activity, -108639, 37524.234, 9063.833
+Illegal Activity, 52127.195, -1123.9396, 7829.493
+Illegal Activity, -45346.168, 30471.375, 7799.5864
+Illegal Activity, 17228.799, 22107.367, 7666.7393
+Illegal Activity, -38361.77, 23600.053, 8076.58
+Illegal Activity, -39384.56, 18321.664, 8132.513
+Illegal Activity, 43786, 82261, 6094
+Illegal Activity, -23021, 117465, 6328
+Illegal Activity, -37741, 136019, 2856
+Illegal Activity, -74206, 62468, 6355
+Illegal Activity, 8876, 107506, 5758.111
+Illegal Activity, 9099, 170256, 4633
+Illegal Activity, -5751, 63760, 6354.8438
+Illegal Activity, 14482, 79308, 6290
+Illegal Activity, -40433.08, 161734.77, 2292
+Illegal Activity, -46327, 94875, 2888
+Illegal Activity, -8348.11, 126257.86, 6350.923
+Illegal Activity, -43029, 110503, 4924
+Illegal Activity, 42334, 100895, 9932.729
+Illegal Activity, 25894, 142696, 3171
+Illegal Activity, 37188.36, 128452.47, 7013.3374
+Illegal Activity, -13475, 87741, 6333
+Illegal Activity, 21746, 58620, 6346.2446
+Illegal Activity, 63730, 120450, 6053
+Illegal Activity, -1097, 98039, 6647.3364
+Illegal Activity, -25563, 149041, 3983
+Illegal Activity, 30928.469, 108577.68, 7391.7593
+Illegal Activity, -30981.604, 71482.37, 6622.3906
+Illegal Activity, 54132, 110680, 12380
+Illegal Activity, -30609, 57864, 6812
+Illegal Activity, -57756, 80301, 3104
+Illegal Activity, 4803, 143023, 4486
